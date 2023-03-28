@@ -1,6 +1,6 @@
 # Keyword Extractor
 
-A simple tool that extracts keywords from a given text. Powered by Open AI's GPT models.
+A simple tool that extracts keywords from a given text, powered by Open AI's GPT models.
 
 ![homepage screenshot](/homepage.png)
 
@@ -14,6 +14,8 @@ Install dependecies:
 npm install
 ```
 
+<br>
+
 Create `.env` file and add your API key.
 https://platform.openai.com/account/api-keys
 
@@ -21,10 +23,14 @@ https://platform.openai.com/account/api-keys
 VITE_OPENAI_API_KEY='ADD_YOUR_KEY_HERE'
 ```
 
+<br>
+
 Run the dev server:
 
 ```bash
 npm run dev
 ```
+
+<br>
 
 Open https://localhost:3000 and enjoy!
