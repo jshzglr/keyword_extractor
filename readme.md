@@ -21,4 +21,4 @@ Run the dev server:
 
 `npm run dev`
 
-Open [](https://localhost:3000) and enjoy!
+Open (https://localhost:3000) and enjoy!
