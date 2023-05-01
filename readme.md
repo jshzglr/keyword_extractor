@@ -1,6 +1,7 @@
 # Keyword Extractor
 
 A simple tool that extracts keywords from a given text.
+
 Tech: JS, React, Vite, OpenAI
 
 ![homepage screenshot](/homepage.png)
