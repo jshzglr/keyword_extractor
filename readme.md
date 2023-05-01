@@ -2,7 +2,7 @@
 
 A simple tool that extracts keywords from a given text.
 
-Tech: JS, React, Vite, OpenAI
+Tech: JS, React, Chakra, Vite, OpenAI
 
 ![homepage screenshot](/homepage.png)
 
